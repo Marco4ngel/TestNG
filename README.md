@@ -39,7 +39,10 @@ soluciona muchas de sus carencias:
   <img src="img/generar_test2.png" alt = "Generar un test">
 </div>
 
-- Paso 8: Una vez generados los test, introduce los métodos correspondientes para comprobar si su funcionamiento es correcto
+- Paso 8: Una vez generados los test, introduce los métodos correspondientes 
 <div align="left">
   <img src="img/clase_test.png" alt = "Generar un test">
+  <img src="img/tests.png" alt = "distintos tests" width="300">
 </div>
+
+- Paso 9: Ejecuta los test y comprueba que su comportamiento es correcto
