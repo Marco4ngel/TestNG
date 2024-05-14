@@ -18,11 +18,11 @@ soluciona muchas de sus carencias:
 - Paso 4: Descarga la última versión y copia el texto
 
 <div align="left">
-  <img src="img/mvn_repo.png" alt="mvn_repo.png" width="350">
+  <img src="img/mvn_repo.png" alt="mvn_repo.png" width="450">
 </div>
 
 - Paso 5: Agrega la librería al proyecto
 
 <div align="left">
-  <img src="img/testNG_libreria.png" alt="mvn_repo.png" width="350">
+  <img src="img/testNG_libreria.png" alt="mvn_repo.png" width="500">
 </div>
