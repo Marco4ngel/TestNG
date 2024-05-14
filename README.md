@@ -27,3 +27,4 @@ soluciona muchas de sus carencias:
   <img src="img/testNG_libreria.png" alt="mvn_repo.png" width="500">
 </div>
 
+- Paso 6: Crea una clase para realizar los test
