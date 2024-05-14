@@ -13,7 +13,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/resources/testng-7.10.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/resources/testng-7.4.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -22,7 +22,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/resources/jcommander-1.82.jar!/" />
+          <root url="jar://$MODULE_DIR$/resources/jcommander-1.78.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
