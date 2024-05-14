@@ -18,14 +18,28 @@ soluciona muchas de sus carencias:
 - Paso 4: Descarga la última versión y copia el texto
 
 <div align="left">
-  <img src="img/mvn_repo.png" alt="mvn_repo.png" width="450">
+  <img src="img/mvn_repo.png" alt="Descarga la librería" width="450">
 </div>
 
 - Paso 5: Agrega la librería al proyecto
 
 <div align="left">
-  <img src="img/testNG_libreria.png" alt="mvn_repo.png" width="500">
+  <img src="img/testNG_libreria.png" alt="Importar la librería" width="500">
 </div>
 
 - Paso 6: Crea una clase para realizar los test
-- 
+- Paso 7: Una vez creada la clase con sus métodos genera tests
+
+<div align="left">
+  <img src="img/clase_calculadora.png" alt="Clase calculadora" width="400">
+</div>
+
+<div align="left">
+  <img src="img/generar_test.png" alt="Generar un test" width="350">
+  <img src="img/generar_test2.png" alt = "Generar un test">
+</div>
+
+- Paso 8: Una vez generados los test, introduce los métodos correspondientes para comprobar si su funcionamiento es correcto
+<div align="left">
+  <img src="img/clase_test.png" alt = "Generar un test">
+</div>
