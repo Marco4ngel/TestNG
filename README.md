@@ -28,3 +28,4 @@ soluciona muchas de sus carencias:
 </div>
 
 - Paso 6: Crea una clase para realizar los test
+- 

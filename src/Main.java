@@ -45,12 +45,13 @@ public class Main {
     }
 
 
-    private static String obtenerDatos(String texto, String patron) {
+    public static String obtenerDatos(String texto, String patron) {
         String datos;
 
         do {
             System.out.print(texto);
             datos = sc.nextLine();
+
             if (!Pattern.matches(patron, datos)) {
                 System.out.println("Formato incorrecto");
             }
